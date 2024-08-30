@@ -1,0 +1,20 @@
+h1{
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400; 
+  font-style: normal;
+  font-size: 80px;
+  text-align: center;
+  background-color: yellow;
+}
+body{
+  font-size: 30px;
+ 
+ background-color: gray;
+}
+footer{
+ background-color: black;
+
+}
+div{
+  text-align: center;
+}
